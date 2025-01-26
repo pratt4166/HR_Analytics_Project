@@ -17,4 +17,5 @@ The data used in this project is of April, May, June of the year 2022
 
 # Insights
 
-To find out the working preference of peole(Ex- Work from home, Work from office etc.)
+* To find out the working preference of peole(Ex- Work from home, Work from office etc.)
++ To find out sick leave %
