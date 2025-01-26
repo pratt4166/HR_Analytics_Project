@@ -11,4 +11,5 @@ The goal of this project is to analyze the attendance pattern of the employees o
 The data used in this project is of April, May, June of the year 2022
 
 > Data Sources: Excel sheets containing monthly attendance data taken from the ERP systems along with an attendance key.
+
 > Key Columns: Employee Code, Employee Name, Date
