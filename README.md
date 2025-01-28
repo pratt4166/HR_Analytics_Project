@@ -30,6 +30,9 @@ The data used in this project is of April, May, June of the year 2022
 * Removed errors to maintain clean data for analysis
 * Created and invoked a function to automate the transformation process across all sheets of data
 
+# Creating Metrics
+
+*
 
 
 
