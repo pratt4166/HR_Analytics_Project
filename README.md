@@ -12,6 +12,8 @@ The data used in this project is of April, May, June of the year 2022
 
 - Data Sources: The data has been taken from the ERP systems
 
+- Size: 6500 rows of data
+
 - Key Columns: Employee Code, Employee Name, Date
 
 
@@ -21,16 +23,16 @@ The data used in this project is of April, May, June of the year 2022
 * Presence of people on weekly/monthly basis
 * To find out sick leave %
 
-# Data Transformation and Loading
+# Data Transformation and Preprocesssing
 
 * Removed unnecessary columns
 * Changed type of each column to the data it stored
 * Filtered data with the help of parameters in order to make the process dynamic 
-* Unpivoted date columns in order to combine various sheets of data into a single table
+* Unpivoted columns in order to combine various sheets of data into a single table
 * Removed errors to maintain clean data for analysis
 * Created and invoked a function to automate the transformation process across all sheets of data
 
-# Creating Metrics
+# Exploratory Data Analysis
 
 * 
 
