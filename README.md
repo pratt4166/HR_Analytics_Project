@@ -1,27 +1,27 @@
 # HR-Analytics-Project
 
-Employee presence dashboard for the fiscal year 2022 using Power BI.
+Employee attendance analysis of Atliq Technologies.
 
 # Objective
 
-The goal of this project is to analyze the attendance pattern of the employees of "Atliq Technologies" to help the HR manager of the company with understanding the insights from the data, and enabling data-driven decision making in order to improve the productivity of the company by taking the required steps.
+The goal of this project is to analyze the attendance pattern of the employees of "Atliq Technologies" with understanding the attendance trends and
+absenteesism factors ensuring operational efficiency, project deadlines and overall performance of the company that helps HR develop better policies.
 
 # Data Overview
 
-The data used in this project is of April, May, June of the year 2022
+* Data Source: Attendance logs from company's ERP systems
 
-- Data Sources: The data has been taken from the ERP systems
+* Time Frame: April to June 2022
 
-- Size: 6500 rows of data
+* Size: 6500 rows of data
 
-- Key Columns: Employee Code, Employee Name, Date
+* Key Columns: Employee Code, Employee Name, Date
 
 
 # Problem Statement
 
-* To find out the working preference of peole(Ex- Work from home, Work from office etc.)
-* Presence of people on weekly/monthly basis
-* To find out sick leave %
+Employee attendance is crucial for productivity and resource planning. This project analyses attendance patters to identify factors
+affecting affecting employee presence and suggest improvements.
 
 # Data Transformation and Preprocesssing
 
@@ -34,7 +34,9 @@ The data used in this project is of April, May, June of the year 2022
 
 # Exploratory Data Analysis
 
-* 
+* To find out the working preference of peole(Ex- Work from home, Work from office etc.)
+* Presence of people on weekly/monthly basis
+* To find out sick leave %
 
 
 
