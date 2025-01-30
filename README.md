@@ -31,14 +31,21 @@ affecting affecting employee presence and suggest improvements.
 * Unpivoted columns in order to combine various sheets of data into a single table
 * Removed errors to maintain clean data for analysis
 * Created and invoked a function to automate the transformation process across all sheets of data
+* Created custom columns and metrics to help 
 
-# Exploratory Data Analysis
+# Key Insights(EDA)
 
-* To find out the working preference of peole(Ex- Work from home, Work from office etc.)
-* Presence of people on weekly/monthly basis
-* To find out sick leave %
+* Working preference of people: 90% employees prefer work from office and 10% prefer work from home
+* Monthly presence trend: A downward trend is seen in monthly presence of employees. 
+* Most Common Leave: Sick leave (26%), which could be due to Covid
+* Sick Leave trend: An upward trend is seen in sick leaves as we go from April to June 
 
+# Visualizations
 
+* Area Chart: Presence per cent on daily basis
+* Pie Chart: Working preference of people
+* Donut Chart: Per cent share of leaves
+* Area Chart: Sick leave per cent on daily basis
 
 
 
