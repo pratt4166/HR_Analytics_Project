@@ -38,17 +38,21 @@ affecting affecting employee presence and suggest improvements.
 * Working preference of people: 90% employees prefer work from office and 10% prefer work from home
 * Monthly presence trend: A downward trend is seen in monthly presence of employees. 
 * Most Common Leave: Sick leave (26%), which could be due to Covid
-* Sick Leave trend: An upward trend is seen in sick leaves as we go from April to June 
+* Sick Leave trend: An upward trend is seen in sick leaves as we go from April to June
+* Employee weekly presence: Presence reduces as we go from Monday to Friday with overall base of 90% 
 
 # Visualizations
 
-* Area Chart: Presence per cent on daily basis
+* Area Chart: Presence, work from home, sick leave per cent on daily basis
 * Pie Chart: Working preference of people
-* Donut Chart: Per cent share of leaves
-* Area Chart: Sick leave per cent on daily basis
+* Donut Chart: Per cent share of leaves 
+* Matrix: Viewing employee attendance on indivisual level
 
+# Conclusion
 
-
+* Improve health policies to reduce sick leaves
+* Arrange team meetings and other events in the starting three days of the week
+* Expand analysis to include employee performance impact on attendance trends 
 
 
 
