@@ -1,4 +1,4 @@
-# HR-Analytics-Project
+# HR_Analytics_Project
 
 Employee attendance analysis of Atliq Technologies.
 
