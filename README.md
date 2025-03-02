@@ -55,8 +55,6 @@ affecting affecting employee presence and suggest improvements.
 * Expand analysis to include employee performance impact on attendance trends 
 
 
-Dashboard link: 
-
 
 
 
