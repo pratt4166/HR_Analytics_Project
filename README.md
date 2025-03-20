@@ -5,7 +5,7 @@ Employee attendance analysis of Atliq Technologies.
 # Objective
 
 The goal of this project is to analyze the attendance pattern of the employees of "Atliq Technologies" with understanding the attendance trends and
-absenteesism factors ensuring operational efficiency, project deadlines and overall performance of the company that helps HR develop better policies.
+absenteeism factors ensuring operational efficiency, project deadlines and overall performance of the company that helps HR develop better policies.
 
 # Data Overview
 
@@ -21,9 +21,9 @@ absenteesism factors ensuring operational efficiency, project deadlines and over
 # Problem Statement
 
 Employee attendance is crucial for productivity and resource planning. This project analyses attendance patters to identify factors
-affecting affecting employee presence and suggest improvements.
+affecting employee presence and suggest improvements.
 
-# Data Transformation and Preprocesssing
+# Data Transformation and Preprocessing
 
 * Removed unnecessary columns
 * Changed type of each column to the data it stored
@@ -46,7 +46,7 @@ affecting affecting employee presence and suggest improvements.
 * Area Chart: Presence, work from home, sick leave per cent on daily basis
 * Pie Chart: Working preference of people
 * Donut Chart: Per cent share of leaves 
-* Matrix: Viewing employee attendance on indivisual level
+* Matrix: Viewing employee attendance on individual level
 
 # Conclusion
 
